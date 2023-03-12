@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=1328411791&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username1328411791&layout=compact&langs_count=8)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username1328411791&langs_count=8)
 <!---
 1328411791/1328411791 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
